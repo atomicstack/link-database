@@ -1,5 +1,3 @@
-# links
-
 - [forums.somethingawful.com](forums.somethingawful.com)
 - [elektronauts](http://elektronauts.com/latest)
 - [llllllll](https://llllllll.co)
