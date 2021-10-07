@@ -1,8 +1,8 @@
-- [forums.somethingawful.com](forums.somethingawful.com)
-- [elektronauts](http://elektronauts.com/latest)
+- [forums.somethingawful.com](https://forums.somethingawful.com)
+- [elektronauts](https://elektronauts.com/latest)
 - [llllllll](https://llllllll.co)
 - [synthforum.nl](https://www.synthforum.nl/forums/)
 - [ubuweb](http://ubuweb.com)
-- [lobste.rs](lobste.rs)
-- [orange bad](news.ycombinator.com)
+- [lobste.rs](https://lobste.rs)
+- [orange bad](https://news.ycombinator.com)
 
